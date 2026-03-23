@@ -3,7 +3,6 @@
 
 DOMAIN,scans.lastation.us
 DOMAIN,app.hey.com
-
 DOMAIN-SUFFIX,godamanga.com
 DOMAIN-SUFFIX,godamh.com
 DOMAIN-SUFFIX,komiic.com
@@ -38,5 +37,4 @@ DOMAIN-SUFFIX,mangasee123.com
 DOMAIN-SUFFIX,compsci88.com
 DOMAIN-SUFFIX,mhfm.top
 DOMAIN-SUFFIX,byteimg.com
-
 DOMAIN-KEYWORD,manhua
